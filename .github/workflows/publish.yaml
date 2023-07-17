@@ -3,7 +3,7 @@ name: Package & Push Helm Charts
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
